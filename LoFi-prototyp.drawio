@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.14">
+  <diagram name="Page-1" id="DHIb__rGCyh5pIyczJd2">
+    <mxGraphModel dx="2074" dy="2282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-650" width="980" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="980" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-650" width="980" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-4" value="&lt;div&gt;Logga eller namn på den som äger sidan&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-642.5" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-5" value="Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-620" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-6" value="List of projects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-620" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-7" value="&lt;div&gt;Techniques (search page)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-620" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-8" value="About me" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-620" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="594.5" y="-730" as="sourcePoint" />
+            <mxPoint x="594.5" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-11" value="&lt;div&gt;Laddar om sidan om&lt;/div&gt;&lt;div&gt;man är på home,&lt;/div&gt;&lt;div&gt;eller går till landing page om&amp;nbsp;&lt;/div&gt;&lt;div&gt;man är på annan&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="-802" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1044.5" y="-732" as="sourcePoint" />
+            <mxPoint x="1044.5" y="-662" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="-730" as="sourcePoint" />
+            <mxPoint x="750" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="894.5" y="-730" as="sourcePoint" />
+            <mxPoint x="894.5" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-15" value="&lt;div&gt;Visar statisk&lt;/div&gt;&lt;div&gt;lista över&lt;/div&gt;&lt;div&gt;alla projekt&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-797" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-16" value="&lt;div&gt;Innehåller en&lt;/div&gt;&lt;div&gt;lista över projekten&lt;/div&gt;&lt;div&gt;och de tekniker som&lt;/div&gt;&lt;div&gt;använts.&lt;/div&gt;&lt;div&gt;Även en sökfunktion&lt;/div&gt;&lt;div&gt;baserat på dessa&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="830" y="-825" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-17" value="&lt;div&gt;En sida med information&lt;/div&gt;&lt;div&gt;om den som äger&lt;/div&gt;&lt;div&gt;sidan.&lt;/div&gt;&lt;div&gt;Typiskt bra att ha.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-810" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Introduktion&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="-480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-19" value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eget &lt;br/&gt;metus sem. Cras pretium sagittis tellus vitae eleifend. Proin elit &lt;br/&gt;dolor, suscipit sed rutrum non, condimentum in urna. Vivamus imperdiet &lt;br/&gt;sapien vel eros maximus congue. Sed finibus odio augue. Curabitur vel &lt;br/&gt;suscipit lorem, vitae suscipit leo. Donec lobortis aliquet tempus. Morbi&lt;br/&gt; bibendum ac augue ut vestibulum. Duis at quam nec lectus fermentum &lt;br/&gt;maximus eget sed tellus. Donec ipsum libero, laoreet fringilla mauris &lt;br/&gt;vel, aliquam condimentum massa. Duis molestie porta blandit. Aenean sed &lt;br/&gt;fermentum eros, vitae gravida ligula. Vestibulum dolor eros, pulvinar id&lt;br/&gt; molestie posuere, feugiat eget elit. Mauris facilisis augue molestie &lt;br/&gt;lorem posuere varius. Quisque venenatis nibh sit amet augue sollicitudin&lt;br/&gt; dapibus. Cras tempor elementum diam, id blandit dolor auctor non.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-430" width="390" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-20" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Valfri bild som ägaren själv får välja.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Kan vara en bild på ägaren själv, eller varför inte en meme? The possibilities are truly endless.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="745" y="-480" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-25" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-160" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="-130" as="sourcePoint" />
+            <mxPoint x="1170" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lNJg5bJOUEnF6Nr5mEnA-27" value="Om sidan är skrollbar kan det vara trevligt att ha en sådan knapp som tar en tillbaka till toppen." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-175" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
